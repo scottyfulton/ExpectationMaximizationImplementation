@@ -1,0 +1,16 @@
+Iteration 1
+muSun = 80.00
+muCloud = 55.00
+-----------------------------
+Difference in Sunny Mean = 1.646969 and Difference in Cloudy Mean = 1.655063
+Iteration 2
+muSun = 81.65
+muCloud = 53.34
+-----------------------------
+Difference in Sunny Mean = 0.147969 and Difference in Cloudy Mean = 0.336459
+Iteration 3
+muSun = 81.79
+muCloud = 53.01
+-----------------------------
+Difference in Sunny Mean = 0.018333 and Difference in Cloudy Mean = 0.097615
+Halting iterations due to stop condition.
